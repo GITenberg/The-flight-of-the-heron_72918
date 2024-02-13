@@ -1,0 +1,28 @@
+_repo: The-flight-of-the-heron_72918
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Broster, D. K. (Dorothy Kathleen)
+    alias: Broster, Dorothy Kathleen
+    birthdate: 1877
+    deathdate: 1950
+    gutenberg_agent_id: '43069'
+    url: http://www.gutenberg.org/2009/agents/43069
+    wikipedia: https://en.wikipedia.org/wiki/D._K._Broster
+description: ''
+gutenberg_issued: '2024-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72918'
+language: en
+pgterms:marc905: 20230410010244broster
+pgterms:marc906: '1925'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bWilliam Heinemann Ltd., $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The flight of the heron
+url: http://www.gutenberg.org/ebooks/72918
